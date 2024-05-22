@@ -3,7 +3,7 @@
 
 TERMINALtor is a python  project to help you launch and manage terminal rapidly  👍
 
-# Features : 
+## Features : 
 - Authentification by SSH private key 🔐
 - NUKE your terminal faster than ever 💣
 - Scaling to the moon 🌕
